@@ -1,7 +1,10 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 
 
 ### Day 0: February 1, 2024
 **Today's Progress**: 
+1. Learned about the basic Elixir data types along with the simplest control structures.
+2. Did some review of C++ basics since I hate this language.
+3. 
 
 **Thoughts:** 
 **Link to work:**
