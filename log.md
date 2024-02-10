@@ -30,12 +30,15 @@
 
 ### Day 5: February 6, 2024
 **Today's Progress**: 
-
-
-
+1. Finally got the mix of SFML,ImGui and the initial assignment code working.
 
 ### Day 6: February 7, 2024
-**Today's Progress**: 
+ **Total Miss**
 
-**Thoughts:** 
-**Link to work:**
+### Day 7: February 8, 2024
+**Today's Progress**: 
+1. Translated a Python Dictionary Example to Elixir
+
+### Day 8: February 9, 2024
+**Total Miss**
+
