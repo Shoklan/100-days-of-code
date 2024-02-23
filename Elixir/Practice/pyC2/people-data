@@ -1,0 +1,3 @@
+bob : age: 42, job: Developer, name: Bob Smith, pay: 30000
+sue : age: 45, job: Designer, name: Sue Jones, pay: 40000
+tom : age: 50, job: , name: Tom Little, pay: 0

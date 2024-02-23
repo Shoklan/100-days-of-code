@@ -1,0 +1,3 @@
+bob : {name: Bob Smith, age: 42, pay: 30000, job: Developer}
+sue : {name: Sue Jones, age: 45, pay: 40000, job: Designer}
+tom : {name: Tom Little, age: 50, pay: 0, job: }
