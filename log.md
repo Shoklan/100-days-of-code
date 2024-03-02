@@ -92,3 +92,30 @@
 
 ### Day 21: February 22, 2024
 1. Got a Working LootTable process/module.
+
+### Day 22: February 23, 2024
+**Total Miss**
+
+### Day 23: February 24, 2024
+**Total Miss**
+
+### Day 24: February 25, 2024
+**Total Miss**
+
+### Day 25: February 26, 2024
+1. Started working with Power BI.
+2. Started section on Code related Anti-Patterns in Elixir.
+
+### Day 26: February 27, 2024
+1. Power BI Data Preparation and Data Modeling.
+2. Learning about Design related anti-patterns.
+
+### Day 27: February 28, 2024
+1. Power BI started working with transforming data columns.
+2. Learned about Process anti-patterns
+
+### Day 28: February 29, 2024
+1. Power BI started learning about merging, manipulating the columns with pivots.
+
+### Day 29: February 30, 2024
+1. 
